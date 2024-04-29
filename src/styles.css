@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url('https://c4.wallpaperflare.com/wallpaper/478/416/933/anime-landscape-forest-tree-paint-wallpaper-preview.jpg');
+}
